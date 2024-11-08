@@ -133,7 +133,7 @@ kneed==0.8.5
 ktplotspy==0.2.4
 lazy_loader==0.4
 leidenalg==0.10.1
-libpysal==4.10
+libpysal==4.8.1  # 4.10
 lifelines==0.29.0
 linear-operator==0.5.2
 llvmlite==0.41.1
