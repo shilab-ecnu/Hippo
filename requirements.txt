@@ -342,7 +342,7 @@ xarray==2023.12.0
 xarray-dataclasses==1.7.0
 xarray-datatree==0.0.13
 xarray-schema==0.0.3
-xarray-spatial==0.3.7
+# xarray-spatial==0.3.7
 # xlrd @ file:///croot/xlrd_1685030938141/work
 yarg==0.1.9
 yarl==1.9.4
