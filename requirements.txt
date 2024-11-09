@@ -269,7 +269,7 @@ slicerator==1.1.0
 sniffio==1.3.0
 sortedcontainers==2.4.0
 soupsieve==2.5
-spatial-eggplant==0.2.3
+# spatial-eggplant==0.2.3
 spatial_image==0.3.0
 spatialdata==0.0.15
 Sphinx==7.4.7
