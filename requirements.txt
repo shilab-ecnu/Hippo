@@ -154,7 +154,7 @@ mizani==0.9.3
 mkl-service==2.4.0
 mofax==0.3.6
 morphops==0.1.13
-mpi4py==3.1.5
+# mpi4py==3.1.5
 mpldatacursor==0.7.1
 mpmath==1.3.0
 msgpack==1.0.7
