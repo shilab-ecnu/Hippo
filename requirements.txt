@@ -308,10 +308,6 @@ tokenizers==0.20.0
 tomli==2.0.1
 toolz==0.12.0
 torch==2.1.2
-torch-cluster==1.6.3
-torch-scatter==2.1.2
-torch-sparse==0.6.18
-torch-spline-conv==1.2.2
 # torch @ file:///E:/ProgramFiles/torch-2.1.2-cp39-cp39-win_amd64.whl#sha256=255b50bc0608db177e6a3cc118961d77de7e5105f07816585fa6f191f33a9ff3
 # torch-cluster @ file:///D:/111/torch_cluster-1.6.3%2Bpt21cpu-cp39-cp39-win_amd64.whl#sha256=68eff1d671a22fcbb040671c16611e03a4180b05c25172b4bca85c9795517fa1
 # torch-scatter @ file:///D:/111/torch_scatter-2.1.2%2Bpt21cpu-cp39-cp39-win_amd64.whl#sha256=c82b5f6076653b273ae790c3cb826a78be6848321056de2e813e5c3447c1f3f9
