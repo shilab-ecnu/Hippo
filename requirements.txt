@@ -300,7 +300,7 @@ tensorboard-data-server==0.7.2
 termcolor==2.4.0
 terminado==0.18.0
 texttable==1.7.0
-thinplate==1.0.0
+# thinplate==1.0.0
 threadpoolctl==3.2.0
 tifffile==2023.12.9
 tinycss2==1.2.1
