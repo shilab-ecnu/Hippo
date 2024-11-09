@@ -162,7 +162,7 @@ multidict==6.0.4
 multipledispatch==1.0.0
 multiprocess==0.70.17
 multiscale_spatial_image==0.11.2
-myst-parser==4.0.0
+myst-parser==3.0.0  # 4.0.0
 natsort==8.4.0
 nbclient==0.10.0
 nbconvert==7.16.4
