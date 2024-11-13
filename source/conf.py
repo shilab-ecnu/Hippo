@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Hippo demo'
+project = 'Mouse Hippocampus Analysis'
 copyright = '2024, Yang Wanshuo'
 author = 'Yang Wanshuo'
 
