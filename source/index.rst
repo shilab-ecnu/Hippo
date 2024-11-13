@@ -15,8 +15,8 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   对齐到slice3_landmark.ipynb
-   landmark_selection.ipynb
+   Mouse_Hippocampus_Analysis.ipynb
+   Interactive_lm_select.ipynb
 
 
 Indices and tables
