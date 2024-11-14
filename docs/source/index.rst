@@ -16,10 +16,5 @@ Mouse Hippocampus Analysis Documentation
 
 .. image:: _static/lm_select_demo.gif
    :alt:  A demo showcasting interactive selection of landmarks
-   
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
