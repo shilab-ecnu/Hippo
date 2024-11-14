@@ -10,11 +10,13 @@ Mouse Hippocampus Analysis Documentation
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
    Mouse_Hippocampus_Analysis.ipynb
    Interactive_lm_select.ipynb
 
-
+.. image:: _static/lm_select_demo.gif
+   :alt:  A demo showcasting interactive selection of landmarks
+   
 Indices and tables
 ==================
 
