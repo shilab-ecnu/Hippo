@@ -8,13 +8,21 @@ Mouse Hippocampus Analysis Documentation
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
    
    Mouse_Hippocampus_Analysis.ipynb
    Interactive_lm_select.ipynb
 
+
+A demo using our tool to select landmarks interactively:
+
 .. image:: _static/lm_select_demo.gif
    :alt:  A demo showcasting interactive selection of landmarks
+
+The python output box will show the coordinates of the selected landmarks:
+
+.. image:: _static/lm_output.png
+   :alt:  The screenshot of python output box
 
 
