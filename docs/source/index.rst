@@ -20,7 +20,7 @@ A demo using our tool to select landmarks interactively:
 .. image:: _static/lm_select_demo.gif
    :alt:  A demo showcasting interactive selection of landmarks
 
-The python output box will show the coordinates of the selected landmarks:
+When selecting the landmarks, the python output box shows the coordinates:
 
 .. image:: _static/lm_output.png
    :alt:  The screenshot of python output box
