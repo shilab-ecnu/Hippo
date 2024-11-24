@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Mouse Hippocampus Analysis'
-copyright = '2024, Yang Wanshuo'
-author = 'Yang Wanshuo'
+copyright = '2024, Wanshuo Yang, Yadong Yang, Xingjie Shi'
+author = 'Wanshuo Yang, Yadong Yang, Xingjie Shi'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
